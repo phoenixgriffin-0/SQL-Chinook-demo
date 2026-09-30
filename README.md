@@ -4,7 +4,7 @@ This is a small, self-contained project for learning SQL by answering
 real business questions against a sample database, instead of
 learning syntax in the abstract.
 
-## The database
+## The Database
 
 [Chinook](https://github.com/lerocha/chinook-database) is a free,
 widely-used sample database that models a digital music store, similar
