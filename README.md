@@ -84,5 +84,5 @@ for SQLite, TablePlus, DBeaver, etc.) and paste in queries from
 
 ## Credit
 
-Chinook database created by Luis Rocha and contributors:
+Chinook database created by Luis Rocha and contributors and they were kind enough to allow me to use it:
 https://github.com/lerocha/chinook-database
